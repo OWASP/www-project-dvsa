@@ -28,7 +28,11 @@ We do not take responsibility for the way in which any one uses this application
 
 # How to use?
 
-See [Deployment Tab](#div-deployment)
+See [Deployment][deployment] tab
+
+
+# Cheat-Sheet
+See instructions and demonstrations in the [LESSONS][lessons] section.
 
 
 # License
@@ -38,3 +42,6 @@ Damn Vulnerable Serverless Application (DVSA) is distributed in the hope that it
 
 You should have received a copy of the GNU General Public License along with Damn Vulnerable Serverless Application (DVSA). If not, see http://www.gnu.org/licenses/.
 
+
+[lessons]: https://github.com/OWASP/DVSA/tree/master/AWS
+[deployment]: https://www2.owasp.org/www-project-dvsa/#div-deployment
