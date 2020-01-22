@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Dvsa
-tags: serverless security top10 acknowledgments translations join roadmap news 
+tags: serverless security deployments acknowledgments translations join roadmap news 
 level: 0
 type: code
 
