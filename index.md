@@ -8,7 +8,7 @@ type: code
 
 ---
 
-![alt=DVSA](https://i.imgur.com/q1XFLsz.png)
+![alt=DVSA](https://i.imgur.com/G15BF6m.png)
 # DVSA
 
 ### a Damn Vulnerable Serverless Application
