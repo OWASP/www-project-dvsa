@@ -15,12 +15,11 @@ tags: acknowledgments
 
 ## Sponsors
 
-* ![protego][protego]
+![contrast][contrast]
 
 
 
 [email]: mailto:tal.melamed@owasp.org
 [linkedin]: https://www.linkedin.com/in/talmelamed/
 [owasp]: https://www.owasp.org/index.php/User:Tal_Mel
-[protego]: https://github.com/OWASP/www-project-serverless-top-10/raw/master/assets/images/protego_logo.png
-[cp]: http://checkpoint.com
+[contrast]: https://github.com/OWASP/www-project-dvsa/raw/master/assets/images/contrast_logo.png
