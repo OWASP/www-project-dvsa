@@ -3,7 +3,7 @@ title: Deployment
 layout:  null
 tab: true
 order: 1
-tags: Deployment
+tags: deployment
 ---
 
 # Deployment
