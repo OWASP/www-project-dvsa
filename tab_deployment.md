@@ -9,7 +9,7 @@ tags: Deployment
 # Deployment
 
 #### [Application Repository](AWS/VIDEOS/reo_deploy.mp4)
-- Deploy DVSA from the [AWS Serverless Application Repository](https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:889485553959:applications~DVSA)
+- Deploy DVSA from the [AWS Serverless Application Repository](https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:674087993380:applications~OWASP-DVSA)
 
 - After deployment is complete. Click on 'View CloudFormation Stack'
 
